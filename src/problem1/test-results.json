@@ -1,0 +1,17 @@
+[
+  {
+    "method": "Loop",
+    "result": 55,
+    "expected": 55
+  },
+  {
+    "method": "Recursion",
+    "result": 55,
+    "expected": 55
+  },
+  {
+    "method": "Formula",
+    "result": 55,
+    "expected": 55
+  }
+]
