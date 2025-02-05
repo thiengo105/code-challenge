@@ -1,0 +1,14 @@
+.app {
+  height: 100vh;
+  background-color: #eee;
+}
+
+.container {
+  width: 100%;
+  max-width: 450px;
+}
+
+.arrow-icon {
+  padding-left: 10px;
+  padding-right: 10px;
+}
